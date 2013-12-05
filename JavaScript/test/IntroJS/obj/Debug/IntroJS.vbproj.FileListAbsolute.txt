@@ -1,0 +1,8 @@
+I:\TelerikAcademy\JavaScript\test\IntroJS\bin\IntroJS.dll
+I:\TelerikAcademy\JavaScript\test\IntroJS\bin\IntroJS.pdb
+I:\TelerikAcademy\JavaScript\test\IntroJS\bin\IntroJS.xml
+I:\TelerikAcademy\JavaScript\test\IntroJS\obj\Debug\IntroJS.Resources.resources
+I:\TelerikAcademy\JavaScript\test\IntroJS\obj\Debug\IntroJS.vbproj.GenerateResource.Cache
+I:\TelerikAcademy\JavaScript\test\IntroJS\obj\Debug\IntroJS.dll
+I:\TelerikAcademy\JavaScript\test\IntroJS\obj\Debug\IntroJS.xml
+I:\TelerikAcademy\JavaScript\test\IntroJS\obj\Debug\IntroJS.pdb

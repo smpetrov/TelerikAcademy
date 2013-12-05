@@ -1,0 +1,5 @@
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\Proba\HelloCSharp\bin\Release\HelloCSharp.exe
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\Proba\HelloCSharp\bin\Release\HelloCSharp.pdb
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\Proba\HelloCSharp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\Proba\HelloCSharp\obj\Release\HelloCSharp.exe
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\Proba\HelloCSharp\obj\Release\HelloCSharp.pdb

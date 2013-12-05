@@ -1,0 +1,5 @@
+g:\C#\Projects\3.CompareLexicographically\bin\Release\3.CompareLexicographically.exe
+g:\C#\Projects\3.CompareLexicographically\bin\Release\3.CompareLexicographically.pdb
+g:\C#\Projects\3.CompareLexicographically\obj\Release\ResolveAssemblyReference.cache
+g:\C#\Projects\3.CompareLexicographically\obj\Release\3.CompareLexicographically.exe
+g:\C#\Projects\3.CompareLexicographically\obj\Release\3.CompareLexicographically.pdb

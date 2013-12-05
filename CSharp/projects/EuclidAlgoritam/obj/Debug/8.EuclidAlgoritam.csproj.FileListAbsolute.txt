@@ -1,0 +1,5 @@
+g:\C#\Projects\EuclidAlgoritam\bin\Debug\EuclidAlgoritam.exe
+g:\C#\Projects\EuclidAlgoritam\bin\Debug\EuclidAlgoritam.pdb
+g:\C#\Projects\EuclidAlgoritam\obj\Debug\ResolveAssemblyReference.cache
+g:\C#\Projects\EuclidAlgoritam\obj\Debug\EuclidAlgoritam.exe
+g:\C#\Projects\EuclidAlgoritam\obj\Debug\EuclidAlgoritam.pdb

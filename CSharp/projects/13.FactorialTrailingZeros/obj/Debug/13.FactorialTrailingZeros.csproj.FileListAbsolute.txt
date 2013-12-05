@@ -1,0 +1,5 @@
+G:\C#\projects\13.FactorialTrailingZeros\bin\Debug\13.FactorialTrailingZeros.exe
+G:\C#\projects\13.FactorialTrailingZeros\bin\Debug\13.FactorialTrailingZeros.pdb
+G:\C#\projects\13.FactorialTrailingZeros\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\projects\13.FactorialTrailingZeros\obj\Debug\13.FactorialTrailingZeros.exe
+G:\C#\projects\13.FactorialTrailingZeros\obj\Debug\13.FactorialTrailingZeros.pdb

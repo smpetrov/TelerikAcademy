@@ -1,0 +1,5 @@
+G:\C#\projects\1.PrintAarray\12.WriteAsciiCode\bin\Release\12.WriteAsciiCode.exe
+G:\C#\projects\1.PrintAarray\12.WriteAsciiCode\bin\Release\12.WriteAsciiCode.pdb
+G:\C#\projects\1.PrintAarray\12.WriteAsciiCode\obj\Release\ResolveAssemblyReference.cache
+G:\C#\projects\1.PrintAarray\12.WriteAsciiCode\obj\Release\12.WriteAsciiCode.exe
+G:\C#\projects\1.PrintAarray\12.WriteAsciiCode\obj\Release\12.WriteAsciiCode.pdb

@@ -1,0 +1,5 @@
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\05.CompareWithoutIf\bin\Debug\05.CompareWithoutIf.exe.config
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\05.CompareWithoutIf\bin\Debug\05.CompareWithoutIf.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\05.CompareWithoutIf\bin\Debug\05.CompareWithoutIf.pdb
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\05.CompareWithoutIf\obj\Debug\05.CompareWithoutIf.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\05.CompareWithoutIf\obj\Debug\05.CompareWithoutIf.pdb

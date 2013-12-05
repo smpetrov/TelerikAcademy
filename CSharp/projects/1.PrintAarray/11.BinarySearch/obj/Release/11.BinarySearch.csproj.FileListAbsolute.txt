@@ -1,0 +1,5 @@
+G:\C#\projects\1.PrintAarray\11.BinarySearch\bin\Release\11.BinarySearch.exe
+G:\C#\projects\1.PrintAarray\11.BinarySearch\bin\Release\11.BinarySearch.pdb
+G:\C#\projects\1.PrintAarray\11.BinarySearch\obj\Release\ResolveAssemblyReference.cache
+G:\C#\projects\1.PrintAarray\11.BinarySearch\obj\Release\11.BinarySearch.exe
+G:\C#\projects\1.PrintAarray\11.BinarySearch\obj\Release\11.BinarySearch.pdb

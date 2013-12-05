@@ -1,0 +1,9 @@
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.exe.config
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.pdb
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.exe.config
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.exe
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{5E674EFD-CDF1-4F09-A7D8-2F708234B6EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Types", "Types\Types.csproj", "{EEE05457-7AAA-499E-9C42-69EA444A8CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E674EFD-CDF1-4F09-A7D8-2F708234B6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E674EFD-CDF1-4F09-A7D8-2F708234B6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E674EFD-CDF1-4F09-A7D8-2F708234B6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E674EFD-CDF1-4F09-A7D8-2F708234B6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE05457-7AAA-499E-9C42-69EA444A8CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE05457-7AAA-499E-9C42-69EA444A8CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE05457-7AAA-499E-9C42-69EA444A8CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE05457-7AAA-499E-9C42-69EA444A8CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

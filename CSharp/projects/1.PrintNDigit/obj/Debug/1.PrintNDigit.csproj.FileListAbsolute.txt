@@ -1,0 +1,5 @@
+g:\C#\Projects\1.PrintNDigit\bin\Debug\1.PrintNDigit.exe
+g:\C#\Projects\1.PrintNDigit\bin\Debug\1.PrintNDigit.pdb
+g:\C#\Projects\1.PrintNDigit\obj\Debug\ResolveAssemblyReference.cache
+g:\C#\Projects\1.PrintNDigit\obj\Debug\1.PrintNDigit.exe
+g:\C#\Projects\1.PrintNDigit\obj\Debug\1.PrintNDigit.pdb

@@ -1,0 +1,5 @@
+g:\C#\Projects\1.PrintArray\bin\Debug\1.PrintArray.exe
+g:\C#\Projects\1.PrintArray\bin\Debug\1.PrintArray.pdb
+g:\C#\Projects\1.PrintArray\obj\Debug\ResolveAssemblyReference.cache
+g:\C#\Projects\1.PrintArray\obj\Debug\1.PrintArray.exe
+g:\C#\Projects\1.PrintArray\obj\Debug\1.PrintArray.pdb

@@ -1,0 +1,10 @@
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables\1.FiveTypes\bin\Debug\1.FiveTypes.exe.config
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\1.FiveTypes\bin\Debug\1.FiveTypes.exe.config
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\1.FiveTypes\bin\Debug\1.FiveTypes.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\1.FiveTypes\bin\Debug\1.FiveTypes.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\1.FiveTypes\obj\Debug\1.FiveTypes.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\1.FiveTypes\obj\Debug\1.FiveTypes.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\1.FiveTypes\obj\Debug\1.FiveTypes.pdb
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\1.FiveTypes\bin\Debug\1.FiveTypes.exe.config
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\1.FiveTypes\obj\Debug\1.FiveTypes.exe
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\1.FiveTypes\obj\Debug\1.FiveTypes.pdb

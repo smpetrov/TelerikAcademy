@@ -1,0 +1,5 @@
+g:\C#\Projects\9.10.Catalan\bin\Release\9.10.Catalan.exe
+g:\C#\Projects\9.10.Catalan\bin\Release\9.10.Catalan.pdb
+g:\C#\Projects\9.10.Catalan\obj\Release\ResolveAssemblyReference.cache
+g:\C#\Projects\9.10.Catalan\obj\Release\9.10.Catalan.exe
+g:\C#\Projects\9.10.Catalan\obj\Release\9.10.Catalan.pdb

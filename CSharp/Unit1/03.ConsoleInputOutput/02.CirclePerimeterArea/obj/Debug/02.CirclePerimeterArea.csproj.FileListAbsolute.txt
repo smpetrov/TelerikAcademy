@@ -1,0 +1,5 @@
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\02.CirclePerimeterArea\bin\Debug\02.CirclePerimeterArea.exe.config
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\02.CirclePerimeterArea\bin\Debug\02.CirclePerimeterArea.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\02.CirclePerimeterArea\bin\Debug\02.CirclePerimeterArea.pdb
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\02.CirclePerimeterArea\obj\Debug\02.CirclePerimeterArea.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\02.CirclePerimeterArea\obj\Debug\02.CirclePerimeterArea.pdb

@@ -1,0 +1,10 @@
+C:\Users\svilen\Documents\Visual Studio 2008\Projects\TypesVariables\Types\bin\Release\Types.exe
+C:\Users\svilen\Documents\Visual Studio 2008\Projects\TypesVariables\Types\bin\Release\Types.pdb
+C:\Users\svilen\Documents\Visual Studio 2008\Projects\TypesVariables\Types\obj\Release\ResolveAssemblyReference.cache
+C:\Users\svilen\Documents\Visual Studio 2008\Projects\TypesVariables\Types\obj\Release\Types.exe
+C:\Users\svilen\Documents\Visual Studio 2008\Projects\TypesVariables\Types\obj\Release\Types.pdb
+G:\C#\projects\Types\obj\Release\Types.exe
+G:\C#\projects\Types\obj\Release\Types.pdb
+G:\C#\projects\Types\bin\Release\Types.exe
+G:\C#\projects\Types\bin\Release\Types.pdb
+G:\C#\projects\Types\obj\Release\ResolveAssemblyReference.cache

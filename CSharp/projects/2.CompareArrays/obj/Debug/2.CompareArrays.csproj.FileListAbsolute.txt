@@ -1,0 +1,5 @@
+g:\C#\Projects\2.CompareArrays\bin\Debug\2.CompareArrays.exe
+g:\C#\Projects\2.CompareArrays\bin\Debug\2.CompareArrays.pdb
+g:\C#\Projects\2.CompareArrays\obj\Debug\ResolveAssemblyReference.cache
+g:\C#\Projects\2.CompareArrays\obj\Debug\2.CompareArrays.exe
+g:\C#\Projects\2.CompareArrays\obj\Debug\2.CompareArrays.pdb

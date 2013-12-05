@@ -1,0 +1,5 @@
+g:\C#\Projects\4.SequenceOfEquals\bin\Debug\4.SequenceOfEquals.exe
+g:\C#\Projects\4.SequenceOfEquals\bin\Debug\4.SequenceOfEquals.pdb
+g:\C#\Projects\4.SequenceOfEquals\obj\Debug\ResolveAssemblyReference.cache
+g:\C#\Projects\4.SequenceOfEquals\obj\Debug\4.SequenceOfEquals.exe
+g:\C#\Projects\4.SequenceOfEquals\obj\Debug\4.SequenceOfEquals.pdb

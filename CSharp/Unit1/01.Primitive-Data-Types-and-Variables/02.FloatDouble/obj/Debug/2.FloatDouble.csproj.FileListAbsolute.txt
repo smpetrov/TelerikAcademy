@@ -1,0 +1,8 @@
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\2.FloatDouble\bin\Debug\2.FloatDouble.exe.config
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\2.FloatDouble\bin\Debug\2.FloatDouble.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\2.FloatDouble\bin\Debug\2.FloatDouble.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\2.FloatDouble\obj\Debug\2.FloatDouble.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\2.FloatDouble\obj\Debug\2.FloatDouble.pdb
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\02.FloatDouble\bin\Debug\2.FloatDouble.exe.config
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\02.FloatDouble\obj\Debug\2.FloatDouble.exe
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\02.FloatDouble\obj\Debug\2.FloatDouble.pdb

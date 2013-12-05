@@ -1,0 +1,5 @@
+G:\C#\projects\1.PrintAarray\7.SortingArray\bin\Release\7.SortingArray.exe
+G:\C#\projects\1.PrintAarray\7.SortingArray\bin\Release\7.SortingArray.pdb
+G:\C#\projects\1.PrintAarray\7.SortingArray\obj\Release\ResolveAssemblyReference.cache
+G:\C#\projects\1.PrintAarray\7.SortingArray\obj\Release\7.SortingArray.exe
+G:\C#\projects\1.PrintAarray\7.SortingArray\obj\Release\7.SortingArray.pdb

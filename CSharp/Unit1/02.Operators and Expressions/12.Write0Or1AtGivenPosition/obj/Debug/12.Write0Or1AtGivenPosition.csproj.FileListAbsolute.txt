@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\12.Write0Or1AtGivenPosition\bin\Debug\12.Write0Or1AtGivenPosition.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\12.Write0Or1AtGivenPosition\bin\Debug\12.Write0Or1AtGivenPosition.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\12.Write0Or1AtGivenPosition\bin\Debug\12.Write0Or1AtGivenPosition.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\12.Write0Or1AtGivenPosition\obj\Debug\12.Write0Or1AtGivenPosition.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\12.Write0Or1AtGivenPosition\obj\Debug\12.Write0Or1AtGivenPosition.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\12.Write0Or1AtGivenPosition\obj\Debug\12.Write0Or1AtGivenPosition.pdb

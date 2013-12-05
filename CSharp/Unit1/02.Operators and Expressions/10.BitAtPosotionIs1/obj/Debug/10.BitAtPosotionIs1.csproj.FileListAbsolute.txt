@@ -1,0 +1,5 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\10.BitAtPosotionIs1\bin\Debug\10.BitAtPosotionIs1.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\10.BitAtPosotionIs1\bin\Debug\10.BitAtPosotionIs1.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\10.BitAtPosotionIs1\bin\Debug\10.BitAtPosotionIs1.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\10.BitAtPosotionIs1\obj\Debug\10.BitAtPosotionIs1.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\10.BitAtPosotionIs1\obj\Debug\10.BitAtPosotionIs1.pdb

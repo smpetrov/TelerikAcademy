@@ -1,0 +1,5 @@
+G:\C#\projects\1.PrintAarray\9.FrequentNumber\bin\Debug\9.FrequentNumber.exe
+G:\C#\projects\1.PrintAarray\9.FrequentNumber\bin\Debug\9.FrequentNumber.pdb
+G:\C#\projects\1.PrintAarray\9.FrequentNumber\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\projects\1.PrintAarray\9.FrequentNumber\obj\Debug\9.FrequentNumber.exe
+G:\C#\projects\1.PrintAarray\9.FrequentNumber\obj\Debug\9.FrequentNumber.pdb

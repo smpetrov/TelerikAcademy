@@ -1,0 +1,5 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\11.WriteBitAtGivenPosition\bin\Debug\11.WriteBitAtGivenPosition.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\11.WriteBitAtGivenPosition\bin\Debug\11.WriteBitAtGivenPosition.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\11.WriteBitAtGivenPosition\bin\Debug\11.WriteBitAtGivenPosition.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\11.WriteBitAtGivenPosition\obj\Debug\11.WriteBitAtGivenPosition.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\11.WriteBitAtGivenPosition\obj\Debug\11.WriteBitAtGivenPosition.pdb

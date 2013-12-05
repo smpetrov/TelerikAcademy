@@ -1,0 +1,5 @@
+g:\C#\Projects\7.GreatestDigit\bin\Release\7.GreatestDigit.exe
+g:\C#\Projects\7.GreatestDigit\bin\Release\7.GreatestDigit.pdb
+g:\C#\Projects\7.GreatestDigit\obj\Release\ResolveAssemblyReference.cache
+g:\C#\Projects\7.GreatestDigit\obj\Release\7.GreatestDigit.exe
+g:\C#\Projects\7.GreatestDigit\obj\Release\7.GreatestDigit.pdb

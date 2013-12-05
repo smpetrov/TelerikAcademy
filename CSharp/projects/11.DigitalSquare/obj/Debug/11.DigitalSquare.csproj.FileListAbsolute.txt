@@ -1,0 +1,5 @@
+G:\C#\projects\11.DigitalSquare\bin\Debug\11.DigitalSquare.exe
+G:\C#\projects\11.DigitalSquare\bin\Debug\11.DigitalSquare.pdb
+G:\C#\projects\11.DigitalSquare\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\projects\11.DigitalSquare\obj\Debug\11.DigitalSquare.exe
+G:\C#\projects\11.DigitalSquare\obj\Debug\11.DigitalSquare.pdb

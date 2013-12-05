@@ -1,0 +1,9 @@
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\12.ASCIITable\bin\Debug\12.ASCIITable.exe.config
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\12.ASCIITable\bin\Debug\12.ASCIITable.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\12.ASCIITable\bin\Debug\12.ASCIITable.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\12.ASCIITable\obj\Debug\12.ASCIITable.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\12.ASCIITable\obj\Debug\12.ASCIITable.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\12.ASCIITable\obj\Debug\12.ASCIITable.csprojResolveAssemblyReference.cache
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\12.ASCIITable\bin\Debug\12.ASCIITable.exe.config
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\12.ASCIITable\obj\Debug\12.ASCIITable.exe
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\12.ASCIITable\obj\Debug\12.ASCIITable.pdb

@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\04.NumbersDivideBy5\bin\Debug\04.NumbersDivideBy5.exe.config
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\04.NumbersDivideBy5\bin\Debug\04.NumbersDivideBy5.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\04.NumbersDivideBy5\bin\Debug\04.NumbersDivideBy5.pdb
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\04.NumbersDivideBy5\obj\Debug\04.NumbersDivideBy5.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\04.NumbersDivideBy5\obj\Debug\04.NumbersDivideBy5.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\04.NumbersDivideBy5\obj\Debug\04.NumbersDivideBy5.pdb

@@ -1,0 +1,10 @@
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\loops\bin\Release\loops.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\loops\bin\Release\loops.pdb
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\loops\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\loops\obj\Release\loops.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\loops\obj\Release\loops.pdb
+g:\C#\Projects\1.PrintNDigit\bin\Release\1.PrintNDigit.exe
+g:\C#\Projects\1.PrintNDigit\bin\Release\1.PrintNDigit.pdb
+g:\C#\Projects\1.PrintNDigit\obj\Release\ResolveAssemblyReference.cache
+g:\C#\Projects\1.PrintNDigit\obj\Release\1.PrintNDigit.exe
+g:\C#\Projects\1.PrintNDigit\obj\Release\1.PrintNDigit.pdb

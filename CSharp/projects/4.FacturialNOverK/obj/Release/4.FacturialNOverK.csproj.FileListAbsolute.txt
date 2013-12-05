@@ -1,0 +1,5 @@
+g:\C#\Projects\4.FacturialNOverK\bin\Release\4.FacturialNOverK.exe
+g:\C#\Projects\4.FacturialNOverK\bin\Release\4.FacturialNOverK.pdb
+g:\C#\Projects\4.FacturialNOverK\obj\Release\ResolveAssemblyReference.cache
+g:\C#\Projects\4.FacturialNOverK\obj\Release\4.FacturialNOverK.exe
+g:\C#\Projects\4.FacturialNOverK\obj\Release\4.FacturialNOverK.pdb

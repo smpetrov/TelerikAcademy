@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\06.RootsQuadraticEquation\bin\Debug\06.RootsQuadraticEquation.exe.config
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\06.RootsQuadraticEquation\bin\Debug\06.RootsQuadraticEquation.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\06.RootsQuadraticEquation\bin\Debug\06.RootsQuadraticEquation.pdb
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\06.RootsQuadraticEquation\obj\Debug\06.RootsQuadraticEquation.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\06.RootsQuadraticEquation\obj\Debug\06.RootsQuadraticEquation.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\06.RootsQuadraticEquation\obj\Debug\06.RootsQuadraticEquation.pdb

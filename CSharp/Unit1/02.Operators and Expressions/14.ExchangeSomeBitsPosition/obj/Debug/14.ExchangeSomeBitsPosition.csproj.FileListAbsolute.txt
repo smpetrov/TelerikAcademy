@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\14.ExchangeSomeBitsPosition\bin\Debug\14.ExchangeSomeBitsPosition.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\14.ExchangeSomeBitsPosition\bin\Debug\14.ExchangeSomeBitsPosition.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\14.ExchangeSomeBitsPosition\bin\Debug\14.ExchangeSomeBitsPosition.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\14.ExchangeSomeBitsPosition\obj\Debug\14.ExchangeSomeBitsPosition.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\14.ExchangeSomeBitsPosition\obj\Debug\14.ExchangeSomeBitsPosition.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\14.ExchangeSomeBitsPosition\obj\Debug\14.ExchangeSomeBitsPosition.pdb

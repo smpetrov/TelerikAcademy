@@ -1,0 +1,10 @@
+C:\Users\svilen\Documents\Visual Studio 2008\Projects\TypesVariables\Variables\bin\Release\Variables.exe
+C:\Users\svilen\Documents\Visual Studio 2008\Projects\TypesVariables\Variables\bin\Release\Variables.pdb
+C:\Users\svilen\Documents\Visual Studio 2008\Projects\TypesVariables\Variables\obj\Release\ResolveAssemblyReference.cache
+C:\Users\svilen\Documents\Visual Studio 2008\Projects\TypesVariables\Variables\obj\Release\Variables.exe
+C:\Users\svilen\Documents\Visual Studio 2008\Projects\TypesVariables\Variables\obj\Release\Variables.pdb
+G:\C#\projects\Variables\obj\Release\Variables.exe
+G:\C#\projects\Variables\obj\Release\Variables.pdb
+G:\C#\projects\Variables\bin\Release\Variables.exe
+G:\C#\projects\Variables\bin\Release\Variables.pdb
+G:\C#\projects\Variables\obj\Release\ResolveAssemblyReference.cache

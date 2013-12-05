@@ -1,0 +1,5 @@
+g:\C#\Projects\5.TextDigit\bin\Debug\5.TextDigit.exe
+g:\C#\Projects\5.TextDigit\bin\Debug\5.TextDigit.pdb
+g:\C#\Projects\5.TextDigit\obj\Debug\ResolveAssemblyReference.cache
+g:\C#\Projects\5.TextDigit\obj\Debug\5.TextDigit.exe
+g:\C#\Projects\5.TextDigit\obj\Debug\5.TextDigit.pdb

@@ -1,0 +1,5 @@
+g:\C#\Projects\3.NestedStatement\bin\Debug\3.NestedStatement.exe
+g:\C#\Projects\3.NestedStatement\bin\Debug\3.NestedStatement.pdb
+g:\C#\Projects\3.NestedStatement\obj\Debug\ResolveAssemblyReference.cache
+g:\C#\Projects\3.NestedStatement\obj\Debug\3.NestedStatement.exe
+g:\C#\Projects\3.NestedStatement\obj\Debug\3.NestedStatement.pdb

@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Games\Cars\bin\Debug\Cars.exe.config
+I:\TelerikAcademy\CSharp\Games\Cars\bin\Debug\Cars.exe
+I:\TelerikAcademy\CSharp\Games\Cars\bin\Debug\Cars.pdb
+I:\TelerikAcademy\CSharp\Games\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Games\Cars\obj\Debug\Cars.exe
+I:\TelerikAcademy\CSharp\Games\Cars\obj\Debug\Cars.pdb

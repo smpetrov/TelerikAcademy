@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\03.CompanyAndManagerInfo\bin\Debug\03.CompanyAndManagerInfo.exe.config
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\03.CompanyAndManagerInfo\bin\Debug\03.CompanyAndManagerInfo.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\03.CompanyAndManagerInfo\bin\Debug\03.CompanyAndManagerInfo.pdb
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\03.CompanyAndManagerInfo\obj\Debug\03.CompanyAndManagerInfo.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\03.CompanyAndManagerInfo\obj\Debug\03.CompanyAndManagerInfo.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\03.CompanyAndManagerInfo\obj\Debug\03.CompanyAndManagerInfo.pdb

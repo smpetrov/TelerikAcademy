@@ -1,0 +1,5 @@
+G:\C#\projects\1.PrintAarray\8.MaxSunInArray\bin\Release\8.MaxSunInArray.exe
+G:\C#\projects\1.PrintAarray\8.MaxSunInArray\bin\Release\8.MaxSunInArray.pdb
+G:\C#\projects\1.PrintAarray\8.MaxSunInArray\obj\Release\ResolveAssemblyReference.cache
+G:\C#\projects\1.PrintAarray\8.MaxSunInArray\obj\Release\8.MaxSunInArray.exe
+G:\C#\projects\1.PrintAarray\8.MaxSunInArray\obj\Release\8.MaxSunInArray.pdb

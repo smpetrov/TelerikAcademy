@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Games\FallingRocks\bin\Debug\FallingRocks.exe.config
+I:\TelerikAcademy\CSharp\Games\FallingRocks\bin\Debug\FallingRocks.exe
+I:\TelerikAcademy\CSharp\Games\FallingRocks\bin\Debug\FallingRocks.pdb
+I:\TelerikAcademy\CSharp\Games\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Games\FallingRocks\obj\Debug\FallingRocks.exe
+I:\TelerikAcademy\CSharp\Games\FallingRocks\obj\Debug\FallingRocks.pdb

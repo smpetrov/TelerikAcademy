@@ -1,0 +1,5 @@
+G:\C#\projects\Conditions\11.SaySum\bin\Release\11.SaySum.exe
+G:\C#\projects\Conditions\11.SaySum\bin\Release\11.SaySum.pdb
+G:\C#\projects\Conditions\11.SaySum\obj\Release\ResolveAssemblyReference.cache
+G:\C#\projects\Conditions\11.SaySum\obj\Release\11.SaySum.exe
+G:\C#\projects\Conditions\11.SaySum\obj\Release\11.SaySum.pdb

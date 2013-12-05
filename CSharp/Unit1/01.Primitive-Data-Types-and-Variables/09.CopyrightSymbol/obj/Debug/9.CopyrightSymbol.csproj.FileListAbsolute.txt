@@ -1,0 +1,9 @@
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\9.CopyrightSymbol\bin\Debug\9.CopyrightSymbol.exe.config
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\9.CopyrightSymbol\bin\Debug\9.CopyrightSymbol.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\9.CopyrightSymbol\bin\Debug\9.CopyrightSymbol.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\9.CopyrightSymbol\obj\Debug\9.CopyrightSymbol.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\9.CopyrightSymbol\obj\Debug\9.CopyrightSymbol.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\9.CopyrightSymbol\obj\Debug\9.CopyrightSymbol.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\09.CopyrightSymbol\bin\Debug\9.CopyrightSymbol.exe.config
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\09.CopyrightSymbol\obj\Debug\9.CopyrightSymbol.exe
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\09.CopyrightSymbol\obj\Debug\9.CopyrightSymbol.pdb

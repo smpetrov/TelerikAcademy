@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.pdb

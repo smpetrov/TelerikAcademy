@@ -1,0 +1,5 @@
+g:\C#\Projects\10.Bonus\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\projects\10.Bonus\bin\Debug\10.Bonus.exe
+G:\C#\projects\10.Bonus\bin\Debug\10.Bonus.pdb
+G:\C#\projects\10.Bonus\obj\Debug\10.Bonus.exe
+G:\C#\projects\10.Bonus\obj\Debug\10.Bonus.pdb

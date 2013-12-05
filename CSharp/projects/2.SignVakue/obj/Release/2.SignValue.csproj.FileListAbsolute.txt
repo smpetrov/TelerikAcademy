@@ -1,0 +1,5 @@
+g:\C#\Projects\2.SignVakue\bin\Release\2.SignVakue.exe
+g:\C#\Projects\2.SignVakue\bin\Release\2.SignVakue.pdb
+g:\C#\Projects\2.SignVakue\obj\Release\ResolveAssemblyReference.cache
+g:\C#\Projects\2.SignVakue\obj\Release\2.SignVakue.exe
+g:\C#\Projects\2.SignVakue\obj\Release\2.SignVakue.pdb

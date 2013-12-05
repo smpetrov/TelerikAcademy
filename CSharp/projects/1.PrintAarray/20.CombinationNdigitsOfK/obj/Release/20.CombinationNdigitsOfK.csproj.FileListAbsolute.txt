@@ -1,0 +1,5 @@
+G:\C#\projects\1.PrintAarray\20.CombinationNdigitsOfK\bin\Release\20.CombinationNdigitsOfK.exe
+G:\C#\projects\1.PrintAarray\20.CombinationNdigitsOfK\bin\Release\20.CombinationNdigitsOfK.pdb
+G:\C#\projects\1.PrintAarray\20.CombinationNdigitsOfK\obj\Release\ResolveAssemblyReference.cache
+G:\C#\projects\1.PrintAarray\20.CombinationNdigitsOfK\obj\Release\20.CombinationNdigitsOfK.exe
+G:\C#\projects\1.PrintAarray\20.CombinationNdigitsOfK\obj\Release\20.CombinationNdigitsOfK.pdb

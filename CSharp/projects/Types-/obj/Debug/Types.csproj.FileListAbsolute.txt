@@ -1,0 +1,5 @@
+G:\C#\projects\Types\bin\Debug\Types.exe
+G:\C#\projects\Types\bin\Debug\Types.pdb
+G:\C#\projects\Types\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\projects\Types\obj\Debug\Types.exe
+G:\C#\projects\Types\obj\Debug\Types.pdb

@@ -1,0 +1,5 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\04.ThirdDigit\bin\Debug\04.ThirdDigit.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\04.ThirdDigit\bin\Debug\04.ThirdDigit.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\04.ThirdDigit\bin\Debug\04.ThirdDigit.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\04.ThirdDigit\obj\Debug\04.ThirdDigit.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\04.ThirdDigit\obj\Debug\04.ThirdDigit.pdb

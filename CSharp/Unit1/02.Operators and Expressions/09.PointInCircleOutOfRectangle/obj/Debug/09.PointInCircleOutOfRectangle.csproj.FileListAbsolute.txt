@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\09.PointInCircleOutOfRectangle\bin\Debug\09.PointInCircleOutOfRectangle.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\09.PointInCircleOutOfRectangle\bin\Debug\09.PointInCircleOutOfRectangle.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\09.PointInCircleOutOfRectangle\bin\Debug\09.PointInCircleOutOfRectangle.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\09.PointInCircleOutOfRectangle\obj\Debug\09.PointInCircleOutOfRectangle.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\09.PointInCircleOutOfRectangle\obj\Debug\09.PointInCircleOutOfRectangle.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\09.PointInCircleOutOfRectangle\obj\Debug\09.PointInCircleOutOfRectangle.pdb

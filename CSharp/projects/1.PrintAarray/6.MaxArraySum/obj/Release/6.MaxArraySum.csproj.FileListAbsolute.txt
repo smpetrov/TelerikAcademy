@@ -1,0 +1,5 @@
+G:\C#\projects\1.PrintAarray\6.MaxArraySum\bin\Release\6.MaxArraySum.exe
+G:\C#\projects\1.PrintAarray\6.MaxArraySum\bin\Release\6.MaxArraySum.pdb
+G:\C#\projects\1.PrintAarray\6.MaxArraySum\obj\Release\ResolveAssemblyReference.cache
+G:\C#\projects\1.PrintAarray\6.MaxArraySum\obj\Release\6.MaxArraySum.exe
+G:\C#\projects\1.PrintAarray\6.MaxArraySum\obj\Release\6.MaxArraySum.pdb

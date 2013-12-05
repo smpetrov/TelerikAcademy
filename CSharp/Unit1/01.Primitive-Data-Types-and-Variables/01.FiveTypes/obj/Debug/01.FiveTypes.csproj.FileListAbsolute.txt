@@ -1,0 +1,3 @@
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\01.FiveTypes\bin\Debug\1.FiveTypes.exe.config
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\01.FiveTypes\obj\Debug\1.FiveTypes.exe
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\01.FiveTypes\obj\Debug\1.FiveTypes.pdb

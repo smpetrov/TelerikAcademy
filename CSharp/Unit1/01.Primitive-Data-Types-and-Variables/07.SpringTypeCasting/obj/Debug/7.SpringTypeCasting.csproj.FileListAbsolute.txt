@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\7.SpringTypeCasting\bin\Debug\7.SpringTypeCasting.exe.config
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\7.SpringTypeCasting\bin\Debug\7.SpringTypeCasting.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\7.SpringTypeCasting\bin\Debug\7.SpringTypeCasting.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\7.SpringTypeCasting\obj\Debug\7.SpringTypeCasting.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\7.SpringTypeCasting\obj\Debug\7.SpringTypeCasting.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\7.SpringTypeCasting\obj\Debug\7.SpringTypeCasting.pdb

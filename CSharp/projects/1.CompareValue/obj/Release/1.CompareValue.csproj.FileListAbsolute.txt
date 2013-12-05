@@ -1,0 +1,5 @@
+g:\C#\Projects\1.CompareValue\bin\Release\1.CompareValue.exe
+g:\C#\Projects\1.CompareValue\bin\Release\1.CompareValue.pdb
+g:\C#\Projects\1.CompareValue\obj\Release\ResolveAssemblyReference.cache
+g:\C#\Projects\1.CompareValue\obj\Release\1.CompareValue.exe
+g:\C#\Projects\1.CompareValue\obj\Release\1.CompareValue.pdb

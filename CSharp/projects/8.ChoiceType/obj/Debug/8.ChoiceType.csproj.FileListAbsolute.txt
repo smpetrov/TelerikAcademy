@@ -1,0 +1,5 @@
+g:\C#\Projects\8.ChoiceType\bin\Debug\8.ChoiceType.exe
+g:\C#\Projects\8.ChoiceType\bin\Debug\8.ChoiceType.pdb
+g:\C#\Projects\8.ChoiceType\obj\Debug\ResolveAssemblyReference.cache
+g:\C#\Projects\8.ChoiceType\obj\Debug\8.ChoiceType.exe
+g:\C#\Projects\8.ChoiceType\obj\Debug\8.ChoiceType.pdb

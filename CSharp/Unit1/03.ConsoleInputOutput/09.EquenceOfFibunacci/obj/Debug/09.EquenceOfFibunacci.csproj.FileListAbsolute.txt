@@ -1,0 +1,5 @@
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\09.EquenceOfFibunacci\bin\Debug\09.EquenceOfFibunacci.exe.config
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\09.EquenceOfFibunacci\bin\Debug\09.EquenceOfFibunacci.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\09.EquenceOfFibunacci\bin\Debug\09.EquenceOfFibunacci.pdb
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\09.EquenceOfFibunacci\obj\Debug\09.EquenceOfFibunacci.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\09.EquenceOfFibunacci\obj\Debug\09.EquenceOfFibunacci.pdb

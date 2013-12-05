@@ -1,0 +1,5 @@
+g:\C#\Projects\7.Fibonacci\bin\Release\7.Fibonacci.exe
+g:\C#\Projects\7.Fibonacci\bin\Release\7.Fibonacci.pdb
+g:\C#\Projects\7.Fibonacci\obj\Release\ResolveAssemblyReference.cache
+g:\C#\Projects\7.Fibonacci\obj\Release\7.Fibonacci.exe
+g:\C#\Projects\7.Fibonacci\obj\Release\7.Fibonacci.pdb

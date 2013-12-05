@@ -1,0 +1,5 @@
+g:\C#\Projects\6.SumStepen\bin\Release\6.SumStepen.exe
+g:\C#\Projects\6.SumStepen\bin\Release\6.SumStepen.pdb
+g:\C#\Projects\6.SumStepen\obj\Release\ResolveAssemblyReference.cache
+g:\C#\Projects\6.SumStepen\obj\Release\6.SumStepen.exe
+g:\C#\Projects\6.SumStepen\obj\Release\6.SumStepen.pdb

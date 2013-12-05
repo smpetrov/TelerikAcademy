@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.exe.config
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.pdb
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\10.CalculateSumWithAccuracy\obj\Debug\10.CalculateSumWithAccuracy.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\10.CalculateSumWithAccuracy\obj\Debug\10.CalculateSumWithAccuracy.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\10.CalculateSumWithAccuracy\obj\Debug\10.CalculateSumWithAccuracy.pdb

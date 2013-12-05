@@ -1,0 +1,9 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\01.OddEven\bin\Debug\01.OddEven.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\01.OddEven\bin\Debug\01.OddEven.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\01.OddEven\bin\Debug\01.OddEven.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\01.OddEven\obj\Debug\01.OddEven.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\01.OddEven\obj\Debug\01.OddEven.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\01.OddEven\obj\Debug\01.OddEven.pdb
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\01.OddEven\bin\Debug\01.OddEven.exe.config
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\01.OddEven\obj\Debug\01.OddEven.exe
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\01.OddEven\obj\Debug\01.OddEven.pdb

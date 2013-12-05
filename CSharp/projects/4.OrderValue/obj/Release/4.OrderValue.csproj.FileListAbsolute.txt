@@ -1,0 +1,5 @@
+g:\C#\Projects\4.OrderValue\bin\Release\4.OrderValue.exe
+g:\C#\Projects\4.OrderValue\bin\Release\4.OrderValue.pdb
+g:\C#\Projects\4.OrderValue\obj\Release\ResolveAssemblyReference.cache
+g:\C#\Projects\4.OrderValue\obj\Release\4.OrderValue.exe
+g:\C#\Projects\4.OrderValue\obj\Release\4.OrderValue.pdb

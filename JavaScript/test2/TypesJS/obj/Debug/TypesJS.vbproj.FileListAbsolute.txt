@@ -1,0 +1,8 @@
+I:\TelerikAcademy\JavaScript\test2\TypesJS\bin\TypesJS.dll
+I:\TelerikAcademy\JavaScript\test2\TypesJS\bin\TypesJS.pdb
+I:\TelerikAcademy\JavaScript\test2\TypesJS\bin\TypesJS.xml
+I:\TelerikAcademy\JavaScript\test2\TypesJS\obj\Debug\TypesJS.Resources.resources
+I:\TelerikAcademy\JavaScript\test2\TypesJS\obj\Debug\TypesJS.vbproj.GenerateResource.Cache
+I:\TelerikAcademy\JavaScript\test2\TypesJS\obj\Debug\TypesJS.dll
+I:\TelerikAcademy\JavaScript\test2\TypesJS\obj\Debug\TypesJS.xml
+I:\TelerikAcademy\JavaScript\test2\TypesJS\obj\Debug\TypesJS.pdb

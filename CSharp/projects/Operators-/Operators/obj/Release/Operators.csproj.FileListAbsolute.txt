@@ -1,0 +1,10 @@
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\Operators\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\Operators\bin\Release\Operators.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\Operators\bin\Release\Operators.pdb
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\Operators\obj\Release\Operators.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\Operators\obj\Release\Operators.pdb
+g:\C#\projects\Operators\Operators\obj\Release\Operators.exe
+g:\C#\projects\Operators\Operators\obj\Release\Operators.pdb
+g:\C#\projects\Operators\Operators\obj\Release\ResolveAssemblyReference.cache
+g:\C#\projects\Operators\Operators\bin\Release\Operators.exe
+g:\C#\projects\Operators\Operators\bin\Release\Operators.pdb

@@ -1,0 +1,5 @@
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\08.PrintEachNubmerOnSingleLine\bin\Debug\08.PrintEachNubmerOnSingleLine.exe.config
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\08.PrintEachNubmerOnSingleLine\bin\Debug\08.PrintEachNubmerOnSingleLine.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\08.PrintEachNubmerOnSingleLine\bin\Debug\08.PrintEachNubmerOnSingleLine.pdb
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\08.PrintEachNubmerOnSingleLine\obj\Debug\08.PrintEachNubmerOnSingleLine.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\08.PrintEachNubmerOnSingleLine\obj\Debug\08.PrintEachNubmerOnSingleLine.pdb

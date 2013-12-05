@@ -1,0 +1,5 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\05.WhatIsBit3\bin\Debug\05.WhatIsBit3.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\05.WhatIsBit3\bin\Debug\05.WhatIsBit3.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\05.WhatIsBit3\bin\Debug\05.WhatIsBit3.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\05.WhatIsBit3\obj\Debug\05.WhatIsBit3.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\05.WhatIsBit3\obj\Debug\05.WhatIsBit3.pdb

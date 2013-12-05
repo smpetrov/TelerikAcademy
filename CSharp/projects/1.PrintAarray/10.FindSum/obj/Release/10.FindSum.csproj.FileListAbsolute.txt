@@ -1,0 +1,5 @@
+G:\C#\projects\1.PrintAarray\10.FindSum\bin\Release\10.FindSum.exe
+G:\C#\projects\1.PrintAarray\10.FindSum\bin\Release\10.FindSum.pdb
+G:\C#\projects\1.PrintAarray\10.FindSum\obj\Release\ResolveAssemblyReference.cache
+G:\C#\projects\1.PrintAarray\10.FindSum\obj\Release\10.FindSum.exe
+G:\C#\projects\1.PrintAarray\10.FindSum\obj\Release\10.FindSum.pdb

@@ -1,0 +1,8 @@
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\4.HexadecimalFormat\bin\Debug\4.HexadecimalFormat.exe.config
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\4.HexadecimalFormat\bin\Debug\4.HexadecimalFormat.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\4.HexadecimalFormat\bin\Debug\4.HexadecimalFormat.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\4.HexadecimalFormat\obj\Debug\4.HexadecimalFormat.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\4.HexadecimalFormat\obj\Debug\4.HexadecimalFormat.pdb
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\04.HexadecimalFormat\bin\Debug\4.HexadecimalFormat.exe.config
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\04.HexadecimalFormat\obj\Debug\4.HexadecimalFormat.exe
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\04.HexadecimalFormat\obj\Debug\4.HexadecimalFormat.pdb

@@ -1,0 +1,5 @@
+g:\C#\Projects\5.SequenceOfIncreasing\bin\Debug\5.SequenceOfIncreasing.exe
+g:\C#\Projects\5.SequenceOfIncreasing\bin\Debug\5.SequenceOfIncreasing.pdb
+g:\C#\Projects\5.SequenceOfIncreasing\obj\Debug\ResolveAssemblyReference.cache
+g:\C#\Projects\5.SequenceOfIncreasing\obj\Debug\5.SequenceOfIncreasing.exe
+g:\C#\Projects\5.SequenceOfIncreasing\obj\Debug\5.SequenceOfIncreasing.pdb

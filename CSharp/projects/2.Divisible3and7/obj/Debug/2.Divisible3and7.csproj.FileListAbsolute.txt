@@ -1,0 +1,5 @@
+g:\C#\Projects\2.Divisible3and7\bin\Debug\2.Divisible3and7.exe
+g:\C#\Projects\2.Divisible3and7\bin\Debug\2.Divisible3and7.pdb
+g:\C#\Projects\2.Divisible3and7\obj\Debug\ResolveAssemblyReference.cache
+g:\C#\Projects\2.Divisible3and7\obj\Debug\2.Divisible3and7.exe
+g:\C#\Projects\2.Divisible3and7\obj\Debug\2.Divisible3and7.pdb

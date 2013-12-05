@@ -1,0 +1,2 @@
+G:\C#\projects\1.PrintAarray\11.SieveOFEratosthenes\obj\Release\11.SieveOFEratosthenes.exe
+G:\C#\projects\1.PrintAarray\11.SieveOFEratosthenes\obj\Release\11.SieveOFEratosthenes.pdb

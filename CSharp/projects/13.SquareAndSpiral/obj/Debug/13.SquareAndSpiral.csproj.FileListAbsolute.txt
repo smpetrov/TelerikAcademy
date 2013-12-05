@@ -1,0 +1,5 @@
+G:\C#\projects\13.SquareAndSpiral\bin\Debug\13.SquareAndSpiral.exe
+G:\C#\projects\13.SquareAndSpiral\bin\Debug\13.SquareAndSpiral.pdb
+G:\C#\projects\13.SquareAndSpiral\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\projects\13.SquareAndSpiral\obj\Debug\13.SquareAndSpiral.exe
+G:\C#\projects\13.SquareAndSpiral\obj\Debug\13.SquareAndSpiral.pdb

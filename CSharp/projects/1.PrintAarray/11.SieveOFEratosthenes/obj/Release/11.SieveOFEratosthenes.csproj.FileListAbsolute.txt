@@ -1,0 +1,5 @@
+G:\C#\projects\1.PrintAarray\11.SieveOFEratosthenes\bin\Release\11.SieveOFEratosthenes.exe
+G:\C#\projects\1.PrintAarray\11.SieveOFEratosthenes\bin\Release\11.SieveOFEratosthenes.pdb
+G:\C#\projects\1.PrintAarray\11.SieveOFEratosthenes\obj\Release\ResolveAssemblyReference.cache
+G:\C#\projects\1.PrintAarray\11.SieveOFEratosthenes\obj\Release\11.SieveOFEratosthenes.exe
+G:\C#\projects\1.PrintAarray\11.SieveOFEratosthenes\obj\Release\11.SieveOFEratosthenes.pdb

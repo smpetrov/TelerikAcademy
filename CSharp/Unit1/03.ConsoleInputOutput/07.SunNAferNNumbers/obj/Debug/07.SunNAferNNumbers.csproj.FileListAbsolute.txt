@@ -1,0 +1,5 @@
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\07.SunNAferNNumbers\bin\Debug\07.SunNAferNNumbers.exe.config
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\07.SunNAferNNumbers\bin\Debug\07.SunNAferNNumbers.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\07.SunNAferNNumbers\bin\Debug\07.SunNAferNNumbers.pdb
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\07.SunNAferNNumbers\obj\Debug\07.SunNAferNNumbers.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\07.SunNAferNNumbers\obj\Debug\07.SunNAferNNumbers.pdb

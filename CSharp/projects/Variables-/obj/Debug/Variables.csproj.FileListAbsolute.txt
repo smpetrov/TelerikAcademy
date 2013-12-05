@@ -1,0 +1,5 @@
+G:\C#\projects\Variables\bin\Debug\Variables.exe
+G:\C#\projects\Variables\bin\Debug\Variables.pdb
+G:\C#\projects\Variables\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\projects\Variables\obj\Debug\Variables.exe
+G:\C#\projects\Variables\obj\Debug\Variables.pdb

@@ -1,0 +1,8 @@
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\8.StringEscaping\bin\Debug\8.StringEscaping.exe.config
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\8.StringEscaping\bin\Debug\8.StringEscaping.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\8.StringEscaping\bin\Debug\8.StringEscaping.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\8.StringEscaping\obj\Debug\8.StringEscaping.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\8.StringEscaping\obj\Debug\8.StringEscaping.pdb
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\08.StringEscaping\bin\Debug\8.StringEscaping.exe.config
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\08.StringEscaping\obj\Debug\8.StringEscaping.exe
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\08.StringEscaping\obj\Debug\8.StringEscaping.pdb

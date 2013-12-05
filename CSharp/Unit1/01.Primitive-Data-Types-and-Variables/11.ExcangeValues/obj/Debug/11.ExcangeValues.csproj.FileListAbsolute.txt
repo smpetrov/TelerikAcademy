@@ -1,0 +1,9 @@
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\11.ExcangeValues\bin\Debug\11.ExcangeValues.exe.config
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\11.ExcangeValues\bin\Debug\11.ExcangeValues.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\11.ExcangeValues\bin\Debug\11.ExcangeValues.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\11.ExcangeValues\obj\Debug\11.ExcangeValues.exe
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\11.ExcangeValues\obj\Debug\11.ExcangeValues.pdb
+I:\TelerikAcademy\CSharp\Unit1\Primitive-Data-Types-and-Variables\11.ExcangeValues\obj\Debug\11.ExcangeValues.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\11.ExcangeValues\bin\Debug\11.ExcangeValues.exe.config
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\11.ExcangeValues\obj\Debug\11.ExcangeValues.exe
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\11.ExcangeValues\obj\Debug\11.ExcangeValues.pdb

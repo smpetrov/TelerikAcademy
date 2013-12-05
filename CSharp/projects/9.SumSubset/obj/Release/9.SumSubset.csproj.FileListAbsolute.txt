@@ -1,0 +1,5 @@
+g:\C#\Projects\9.SumSubset\bin\Release\9.SumSubset.exe
+g:\C#\Projects\9.SumSubset\bin\Release\9.SumSubset.pdb
+g:\C#\Projects\9.SumSubset\obj\Release\ResolveAssemblyReference.cache
+g:\C#\Projects\9.SumSubset\obj\Release\9.SumSubset.exe
+g:\C#\Projects\9.SumSubset\obj\Release\9.SumSubset.pdb

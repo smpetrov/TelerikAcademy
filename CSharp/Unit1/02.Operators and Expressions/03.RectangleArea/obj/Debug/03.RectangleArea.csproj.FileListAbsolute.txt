@@ -1,0 +1,12 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\bin\Debug\03.RectangleArea.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\obj\Debug\03.RectangleArea.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\bin\Debug\03.RectangleArea.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\bin\Debug\03.RectangleArea.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\obj\Debug\03.RectangleArea.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\obj\Debug\03.RectangleArea.pdb
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\bin\Debug\03.RectangleArea.exe.config
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\obj\Debug\03.RectangleArea.exe
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\obj\Debug\03.RectangleArea.pdb
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\bin\Debug\03.RectangleArea.exe
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\bin\Debug\03.RectangleArea.pdb
+C:\Examples\CSharp\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\03.RectangleArea\obj\Debug\03.RectangleArea.csprojResolveAssemblyReference.cache

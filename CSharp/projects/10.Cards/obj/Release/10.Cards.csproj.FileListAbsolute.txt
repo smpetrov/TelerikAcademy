@@ -1,0 +1,5 @@
+G:\C#\projects\10.Cards\bin\Release\10.Cards.exe
+G:\C#\projects\10.Cards\bin\Release\10.Cards.pdb
+G:\C#\projects\10.Cards\obj\Release\ResolveAssemblyReference.cache
+G:\C#\projects\10.Cards\obj\Release\10.Cards.exe
+G:\C#\projects\10.Cards\obj\Release\10.Cards.pdb

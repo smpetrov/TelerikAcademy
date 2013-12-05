@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\07.PrimeInteger\bin\Debug\07.PrimeInteger.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\07.PrimeInteger\bin\Debug\07.PrimeInteger.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\07.PrimeInteger\bin\Debug\07.PrimeInteger.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\07.PrimeInteger\obj\Debug\07.PrimeInteger.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\07.PrimeInteger\obj\Debug\07.PrimeInteger.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\07.PrimeInteger\obj\Debug\07.PrimeInteger.pdb

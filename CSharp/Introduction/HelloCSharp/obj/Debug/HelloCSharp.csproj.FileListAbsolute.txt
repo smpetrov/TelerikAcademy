@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Introduction\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+I:\TelerikAcademy\CSharp\Introduction\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Introduction\HelloCSharp\bin\Debug\HelloCSharp.exe
+I:\TelerikAcademy\CSharp\Introduction\HelloCSharp\bin\Debug\HelloCSharp.pdb
+I:\TelerikAcademy\CSharp\Introduction\HelloCSharp\obj\Debug\HelloCSharp.exe
+I:\TelerikAcademy\CSharp\Introduction\HelloCSharp\obj\Debug\HelloCSharp.pdb

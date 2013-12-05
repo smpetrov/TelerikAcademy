@@ -1,0 +1,5 @@
+g:\C#\Projects\SumNDigit\obj\Debug\ResolveAssemblyReference.cache
+g:\C#\Projects\SumNDigit\bin\Debug\SumNDigit.exe
+g:\C#\Projects\SumNDigit\bin\Debug\SumNDigit.pdb
+g:\C#\Projects\SumNDigit\obj\Debug\SumNDigit.exe
+g:\C#\Projects\SumNDigit\obj\Debug\SumNDigit.pdb

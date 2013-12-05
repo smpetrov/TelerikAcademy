@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\02.DivideWithoutRemainder\bin\Debug\02.DivideWithoutRemainder.exe.config
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\02.DivideWithoutRemainder\obj\Debug\02.DivideWithoutRemainder.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\02.DivideWithoutRemainder\bin\Debug\02.DivideWithoutRemainder.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\02.DivideWithoutRemainder\bin\Debug\02.DivideWithoutRemainder.pdb
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\02.DivideWithoutRemainder\obj\Debug\02.DivideWithoutRemainder.exe
+I:\TelerikAcademy\CSharp\Unit1\02.Operators and Expressions\02.DivideWithoutRemainder\obj\Debug\02.DivideWithoutRemainder.pdb
