@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.EquenceOfFibunacci", "09
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.CalculateSumWithAccuracy", "10.CalculateSumWithAccuracy\10.CalculateSumWithAccuracy.csproj", "{8CFCA95B-E4BC-4678-90E1-C8FECDD52E57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.FallingRocks", "11.FallingRocks\11.FallingRocks.csproj", "{7D24988A-F7A8-4E28-8A88-12076B0E1AE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{8CFCA95B-E4BC-4678-90E1-C8FECDD52E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CFCA95B-E4BC-4678-90E1-C8FECDD52E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CFCA95B-E4BC-4678-90E1-C8FECDD52E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D24988A-F7A8-4E28-8A88-12076B0E1AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D24988A-F7A8-4E28-8A88-12076B0E1AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D24988A-F7A8-4E28-8A88-12076B0E1AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D24988A-F7A8-4E28-8A88-12076B0E1AE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

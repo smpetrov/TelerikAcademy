@@ -1,0 +1,5 @@
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe.config
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.exe
+I:\TelerikAcademy\CSharp\Unit1\03.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.pdb

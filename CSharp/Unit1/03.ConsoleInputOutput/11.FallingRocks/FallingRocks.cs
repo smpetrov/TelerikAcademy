@@ -40,11 +40,11 @@ class FallingRocks
         //Цвят на обекта
         public ConsoleColor color;
     }
-    
+
     //методи за изпечатване на екранните обекти
     static void printCharOnPosition(int x, int y, char c, ConsoleColor color = ConsoleColor.Gray)
     {
-        Console.SetCursorPosition(x , y);
+        Console.SetCursorPosition(x, y);
         Console.ForegroundColor = color;
         Console.Write(c);
     }
@@ -55,24 +55,23 @@ class FallingRocks
         Console.Write(c);
     }
 
-    
-    
+
+
     static void Main(string[] args)
     {
         //space
-        string spaceStr = new string(' ',41);       
-    
+        string spaceStr = new string(' ', 41);
+
         //брой животи
         int livesCount = 5;
         //levels
         int level = 1;
 
         //ponits
-         int points = 0;
+        int points = 0;
         //point level
-         List<int> pointLevel = new List<int>
-         { 50, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550 };
-        
+        List<int> pointLevel = new List<int> { 50, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550 };
+
         //скриваме показването на курсора
         Console.CursorVisible = false;
 
@@ -91,12 +90,12 @@ class FallingRocks
         //дифинираме нашия кораб
         Shattle userShuttle = new Shattle();
         userShuttle.x = playFieldWidth / 2 + 1;
-        userShuttle.y = Console.WindowHeight - 1; 
+        userShuttle.y = Console.WindowHeight - 1;
         userShuttle.c = 'O';
         userShuttle.color = ConsoleColor.Red;
 
         //масив от възможните скали
-        char[] rocks = {'^', '@', '*', '&', '+', '%', '$', '#', '!', '.', ';', '-'};
+        char[] rocks = { '^', '@', '*', '&', '+', '%', '$', '#', '!', '.', ';', '-' };
         //масив от възможните цветове на скалите
         ConsoleColor[] colorsRocks = {ConsoleColor.Blue,ConsoleColor.Cyan,ConsoleColor.Green,
                                      ConsoleColor.Magenta,ConsoleColor.White};
@@ -105,13 +104,13 @@ class FallingRocks
         //масив съдържащ скалите по екрана и го запълваме с празни символи
         ScreenObject[,] screenRocks = new ScreenObject[Console.WindowHeight, playFieldWidth];
         for (int i = 0; i < Console.WindowHeight; i++)
-			{
-			    for (int j = 0; j < playFieldWidth; j++)
-			    {
-			        screenRocks[i,j].c = ' ';
-                    screenRocks[i, j].color = ConsoleColor.Black;
-			    }
-			}
+        {
+            for (int j = 0; j < playFieldWidth; j++)
+            {
+                screenRocks[i, j].c = ' ';
+                screenRocks[i, j].color = ConsoleColor.Black;
+            }
+        }
 
         //разчертаваме игралното поле
         for (int i = Console.WindowHeight - 1; i >= 0; i--)
@@ -154,19 +153,19 @@ class FallingRocks
             //съэдаваме на всеки ход по един ред от масива със скали със съответната плътност
             //преместваме всеки ред с един напред
             for (int i = Console.WindowHeight - 2; i >= 0; i--)
-			{
-			    for (int j = 0; j < playFieldWidth; j++)
-			    {
-	                screenRocks[i + 1,j]=screenRocks[i , j];
-    			}
-			}
+            {
+                for (int j = 0; j < playFieldWidth; j++)
+                {
+                    screenRocks[i + 1, j] = screenRocks[i, j];
+                }
+            }
             //изпразваме ред 0 от масива със скалите
             for (int i = 0; i < playFieldWidth; i++)
-			{
-			    screenRocks[0,i].c = ' ';
-                screenRocks[0,i].color = ConsoleColor.Black;
-			}
-            
+            {
+                screenRocks[0, i].c = ' ';
+                screenRocks[0, i].color = ConsoleColor.Black;
+            }
+
             //на първия ред пишем новогенерираните скали
             //генерираме нови скали
             //колкото и нивото толкова са скалите на ред
@@ -177,9 +176,9 @@ class FallingRocks
                 int indexArea;
                 do
                 {
-                indexRock = randomGenerator.Next(0, rocks.Length);
-                indexColor = randomGenerator.Next(0, colorsRocks.Length);
-                indexArea = randomGenerator.Next(0, playFieldWidth);
+                    indexRock = randomGenerator.Next(0, rocks.Length);
+                    indexColor = randomGenerator.Next(0, colorsRocks.Length);
+                    indexArea = randomGenerator.Next(0, playFieldWidth);
                 }
                 while (screenRocks[0, indexArea].c != ' ');
                 screenRocks[0, indexArea].c = rocks[indexRock];
@@ -190,11 +189,11 @@ class FallingRocks
             bool hasHit = false;
             for (int i = 0; i < playFieldWidth; i++)
             {
-                if ((userShuttle.x == i) && 
-                    (screenRocks[Console.WindowHeight - 1 , i].c != ' '))
+                if ((userShuttle.x == i) &&
+                    (screenRocks[Console.WindowHeight - 1, i].c != ' '))
                 {
                     hasHit = true;
-                    if (livesCount-1 <= 0)
+                    if (livesCount - 1 <= 0)
                     {
                         printStringOnPosition(50, 10, "Game over !", ConsoleColor.Green);
                         Console.ReadKey(true);
@@ -215,7 +214,7 @@ class FallingRocks
                 ConsoleKeyInfo pressedKey = Console.ReadKey();
                 if (pressedKey.Key == ConsoleKey.LeftArrow)
                 {
-                    if (userShuttle.x -1 >= 0)
+                    if (userShuttle.x - 1 >= 0)
                     {
                         userShuttle.x--;
                     }
@@ -223,7 +222,7 @@ class FallingRocks
                 }
                 else if (pressedKey.Key == ConsoleKey.RightArrow)
                 {
-                    if(userShuttle.x + 1 < playFieldWidth)
+                    if (userShuttle.x + 1 < playFieldWidth)
                     {
                         userShuttle.x++;
                     }
@@ -233,16 +232,16 @@ class FallingRocks
             //Move cars
             //Redraw palyfield
             for (int i = Console.WindowHeight - 2; i >= 0; i--)
-			{
-			    for (int j = 0; j < playFieldWidth; j++)
-			    {
-                     printCharOnPosition(j, i, screenRocks[i, j].c, screenRocks[i, j].color);
-    			}
-			}
+            {
+                for (int j = 0; j < playFieldWidth; j++)
+                {
+                    printCharOnPosition(j, i, screenRocks[i, j].c, screenRocks[i, j].color);
+                }
+            }
             printStringOnPosition(0, userShuttle.y, spaceStr, ConsoleColor.Black);
             if (hasHit)
             {
-                printCharOnPosition(userShuttle.x, userShuttle.y, 'X',ConsoleColor.Red);
+                printCharOnPosition(userShuttle.x, userShuttle.y, 'X', ConsoleColor.Red);
                 Console.Beep();
             }
             else
@@ -251,9 +250,9 @@ class FallingRocks
             }
 
             printStringOnPosition(50, 7, "Level = " + level, ConsoleColor.Green);
-            printStringOnPosition(50, 8, "Lives = "+livesCount, ConsoleColor.Green);
+            printStringOnPosition(50, 8, "Lives = " + livesCount, ConsoleColor.Green);
             printStringOnPosition(50, 15, "Your points " + points + " !", ConsoleColor.Green);
-            
+
             //Draw info
             //Slow down program
             Thread.Sleep((int)(600 - speed));

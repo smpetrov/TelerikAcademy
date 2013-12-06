@@ -1,0 +1,6 @@
+I:\TelerikAcademy\CSharp\Games\PingPong\bin\Debug\PingPong.exe.config
+I:\TelerikAcademy\CSharp\Games\PingPong\bin\Debug\PingPong.exe
+I:\TelerikAcademy\CSharp\Games\PingPong\bin\Debug\PingPong.pdb
+I:\TelerikAcademy\CSharp\Games\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+I:\TelerikAcademy\CSharp\Games\PingPong\obj\Debug\PingPong.exe
+I:\TelerikAcademy\CSharp\Games\PingPong\obj\Debug\PingPong.pdb
