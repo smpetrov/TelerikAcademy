@@ -1,10 +1,9 @@
-import java.text.DecimalFormat;
-import java.text.DecimalFormatSymbols;
-import java.util.Scanner;
-
 /*
  * Write an expression that calculates rectangle’s area by given width and height.
 */
+
+import java.text.DecimalFormat;
+import java.util.Scanner;
 public class RectangleArea {
 
 	public static void main(String[] args) {

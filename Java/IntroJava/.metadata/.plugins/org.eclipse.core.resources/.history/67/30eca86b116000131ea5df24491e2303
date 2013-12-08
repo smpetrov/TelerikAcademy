@@ -1,0 +1,25 @@
+
+public class EquenceOfFibunacci {
+
+	public static void main(String[] args) {
+		
+		//Console.Write("Input number: ");
+        //int number = int.Parse(Console.ReadLine());
+        int number = 100;
+        ulong temporaryValue = 0;
+
+        Console.WriteLine(0);
+        ulong previousValue = 1;
+        Console.WriteLine(1);
+        ulong currentValue = 1;
+        Console.WriteLine(1);
+        for (int i = 1; i <= number - 3; i++)
+        {
+            Console.WriteLine(previousValue + currentValue);
+            temporaryValue = previousValue;
+            previousValue = currentValue;
+            currentValue = temporaryValue + currentValue;
+        }
+	}
+
+}

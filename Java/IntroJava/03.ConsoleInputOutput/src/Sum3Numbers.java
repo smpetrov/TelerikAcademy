@@ -1,0 +1,19 @@
+/*
+ * Write a program that reads 3 integer numbers from the console and prints their sum.
+*/
+import java.util.Scanner;
+public class Sum3Numbers {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.print("Input first number: ");
+        int number1 = input.nextInt();
+        System.out.print("Input second number: ");
+        int number2 = input.nextInt();
+        System.out.print("Input third number: ");
+        int number3 = input.nextInt();
+        input.close();
+        System.out.println("Sum = " + (number1+number2+number3));
+	}
+
+}

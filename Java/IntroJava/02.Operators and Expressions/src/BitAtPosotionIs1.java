@@ -10,13 +10,12 @@ public class BitAtPosotionIs1 {
 		Scanner input = new Scanner(System.in);
 		int v = input.nextInt();
         int p = input.nextInt();
+        input.close();
         int mask = 1 << p;
-        if ((v & mask) != 0)
-        {
+        if ((v & mask) != 0) {
             System.out.println("The " + p + " bit is 1");
         }
-        else
-        {
+        else {
         	System.out.println("The " + p + " bit is 0");
         }
         

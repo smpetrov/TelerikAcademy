@@ -10,23 +10,19 @@ public class ThirdDigit {
 		int x = input.nextInt();
 		input.close();
 		int result = (x / 100) % 10;
-        if (result == 7)
-        {
+        if (result == 7) {
             System.out.println("Third digit is 7");
         }
-        else
-        {
+        else {
         	System.out.println("Third digit is not 7");
         }
 
         // another way
         String b = Integer.toString(x);
-        if (b.indexOf("7") == (b.length()-3))
-        {
+        if (b.indexOf("7") == (b.length()-3)) {
             System.out.println("Third digit is 7");
         }
-        else
-        {
+        else {
         	System.out.println("Third digit is not 7");
         }
 	}

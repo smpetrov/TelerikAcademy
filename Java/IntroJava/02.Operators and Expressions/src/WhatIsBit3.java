@@ -10,12 +10,10 @@ public class WhatIsBit3 {
 		int x = input.nextInt();
 		input.close();
 		int mask = 1 << 3;
-        if ((x & mask) != 0)
-        {
+        if ((x & mask) != 0) {
             System.out.println("The third bit is 1");
         }
-        else
-        {
+        else {
         	System.out.println("The third bit is 0");
         }
 

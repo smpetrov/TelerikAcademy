@@ -1,0 +1,29 @@
+
+
+import java.util.Scanner;
+public class EquenceOfFibunacci {
+
+	public static void main(String[] args) {
+		//Scanner input = new Scanner(System.in);
+		//System.out.print("Input number: ");
+        //int number = input.nextInt();
+		//input.close();
+		
+        int number = 100;
+        long temporaryValue = 0;
+
+        System.out.println(0);
+        long previousValue = 1;
+        System.out.println(1);
+        long currentValue = 1;
+        System.out.println(1);
+        for (int i = 1; i <= number - 3; i++)
+        {
+            System.out.println(previousValue + currentValue);
+            temporaryValue = previousValue;
+            previousValue = currentValue;
+            currentValue = temporaryValue + currentValue;
+        }
+	}
+
+}

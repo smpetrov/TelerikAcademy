@@ -10,12 +10,10 @@ public class DivideWithoutRemainder {
 		int x = input.nextInt();
 		input.close();
         String result;
-        if (((x % 7) == 0) && ((x % 5) == 0))
-        {
+        if (((x % 7) == 0) && ((x % 5) == 0)) {
             result = "can";
         }
-        else
-        {
+        else {
             result = "can't";
         }
         System.out.println("Integer " + x + " " + result + " be divided without remainder by 7 an 5 in the same time");

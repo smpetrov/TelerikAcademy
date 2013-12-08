@@ -10,12 +10,10 @@ public class PointInCircle {
         int y = input.nextInt();
         input.close();
         int radius = 5;
-        if ((x*x + y*y)<radius*radius)
-        {
+        if ((x*x + y*y)<radius*radius) {
             System.out.println("Point (" + x + "," + y + ") is in the circle");
         }
-        else
-        {
+        else {
         	System.out.println("Point (" + x + "," + y + ") is not in the circle");
         }
 	}

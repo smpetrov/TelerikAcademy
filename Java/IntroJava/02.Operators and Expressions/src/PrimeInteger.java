@@ -15,10 +15,8 @@ public class PrimeInteger {
         input.close();
         int divider = 2;
         boolean yesPrime = true;
-        while (yesPrime && (divider <= endDivider))
-        {
-            if (value % divider == 0)
-            {
+        while (yesPrime && (divider <= endDivider)) {
+            if (value % divider == 0) {
                 yesPrime = false;
             }
             divider++;

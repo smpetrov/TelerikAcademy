@@ -5,12 +5,10 @@ public class OddEven {
 
 	public static void main(String[] args) {
 		int x = 5;
-        if ((x % 2) == 0)
-        {
+        if ((x % 2) == 0) {
             System.out.println("Integer is odd");
         }
-        else
-        {
+        else {
         	System.out.println("Integer is even");
         }
 	}

@@ -6,14 +6,11 @@
 public class ASCIITable {
 
 	public static void main(String[] args) {
-		for (int i = 0; i < 256; i++)
-        {
-            if (i % 25 == 0)
-            {
+		for (int i = 0; i < 256; i++) {
+            if (i % 25 == 0) {
             	System.out.println((char)i);
             }
-            else
-            {
+            else {
             	System.out.println((char)i);
             }
         }

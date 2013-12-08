@@ -1,0 +1,41 @@
+/*
+ * A company has name, address, phone number, fax number, web site and manager. 
+ * The manager has first name, last name, age and a phone number. 
+ * Write a program that reads the information about a company 
+ * and its manager and prints them on the console.
+*/
+import java.util.Scanner;
+public class CompanyAndManagerInfo {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.print("Input the company's name : ");
+        String companyName = input.next();
+        System.out.print("Input the company's address : ");
+        String  companyAddress= input.next();
+        System.out.print("Input the company's phone number : ");
+        String  companyPhoneNumber = input.next();
+        System.out.print("Input the company's fax number : ");
+        String  companyFaxNumber= input.next();
+        System.out.print("Input the company's web site : ");
+        String  companyWebSite= input.next();
+        System.out.print("Input the company's manager first name: ");
+        String  managerFistName= input.next();
+        System.out.print("Input the company's manager last name : ");
+        String  managerLastNmae= input.next();
+        System.out.print("Input the ages of the manager : ");
+        int  managerAges= input.nextInt();
+        System.out.print("Input the phone number of the manager : ");
+        String  managerPhoneNumber= input.next();
+        input.close();
+        System.out.println("Conmany : " + companyName);
+        System.out.println("Address : " + companyAddress);
+        System.out.println("Phone   : " + companyPhoneNumber);
+        System.out.println("Fax     : " + companyFaxNumber);
+        System.out.println("Web site: " + companyWebSite);
+        System.out.println("Manager : " + managerFistName + " " + managerLastNmae);
+        System.out.printf("The manager is %s years old.",managerAges);
+        System.out.println("The manager's phone : " + managerPhoneNumber);
+	}
+
+}
