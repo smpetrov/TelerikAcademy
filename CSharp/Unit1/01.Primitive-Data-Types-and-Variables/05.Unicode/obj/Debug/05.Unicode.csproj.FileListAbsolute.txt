@@ -1,0 +1,3 @@
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\05.Unicode\bin\Debug\5.Unicode.exe.config
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\05.Unicode\obj\Debug\5.Unicode.exe
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\05.Unicode\obj\Debug\5.Unicode.pdb

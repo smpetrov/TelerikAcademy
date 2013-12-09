@@ -1,0 +1,3 @@
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\03.SafelyCompare\bin\Debug\3.SafelyCompare.exe.config
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\03.SafelyCompare\obj\Debug\3.SafelyCompare.exe
+I:\TelerikAcademy\CSharp\Unit1\01.Primitive-Data-Types-and-Variables\03.SafelyCompare\obj\Debug\3.SafelyCompare.pdb

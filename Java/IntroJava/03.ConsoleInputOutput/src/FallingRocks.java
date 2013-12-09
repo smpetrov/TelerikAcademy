@@ -1,3 +1,4 @@
+
 /*
  * Implement the "Falling Rocks" game in the text console. 
  * A small dwarf stays at the bottom of the screen and 
@@ -12,9 +13,15 @@
  * Прави се по лекцията на Николай Костов от Телерик за играта justcars.
  * 
  */
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Random;
 
 public class FallingRocks {
-
+	Board br =new Board();
+	
+	public static JavaHowTo jht = new JavaHowTo();
+	
 	//клас описвща падащите скали
     class ScreenObject
     {
@@ -44,25 +51,27 @@ public class FallingRocks {
 	    Shattle shattle = new Shattle();
 
 	    //методи за изпечатване на екранните обекти
-	    static void printCharOnPosition(int x, int y, char c, ConsoleColor color = ConsoleColor.Gray)
+	    //, ConsoleColor color = ConsoleColor.Gray)
+	    static void printCharOnPosition(int x, int y, char c) 
 	    {
-	        Console.SetCursorPosition(x, y);
-	        Console.ForegroundColor = color;
-	        Console.Write(c);
+	    	jht.setCursorPosition((short)x,(short)y);
+	        //Console.ForegroundColor = color;
+	        System.out.print(c);
 	    }
-	    static void printStringOnPosition(int x, int y, String c, ConsoleColor color = ConsoleColor.Gray)
+	    //, ConsoleColor color = ConsoleColor.Gray)
+	    static void printStringOnPosition(int x, int y, String c)
 	    {
-	        Console.SetCursorPosition(x, y);
-	        Console.ForegroundColor = color;
-	        Console.Write(c);
+	    	jht.setCursorPosition((short)x,(short)y);
+	        //Console.ForegroundColor = color;
+	    	System.out.print(c);
 	    }
 
 
 
-	    static void Main(string[] args)
-	    {
 	        //space
-	        string spaceStr = new string(' ', 41);
+	    	char[] fill = new char[41];
+	    	Arrays.fill(fill,' ');
+	        String spaceStr = new String(fill);
 
 	        //брой животи
 	        int livesCount = 5;
@@ -72,10 +81,21 @@ public class FallingRocks {
 	        //ponits
 	        int points = 0;
 	        //point level
-	        List<int> pointLevel = new List<int> { 50, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550 };
-
+	        ArrayList<Integer> pointLevel = new ArrayList<Integer>();
+	        pointLevel.add(50);
+	        pointLevel.add(100);
+	        pointLevel.add(150);
+	        pointLevel.add(200);
+	        pointLevel.add(250);
+	        pointLevel.add(300);
+	        pointLevel.add(350);
+	        pointLevel.add(400);
+	        pointLevel.add(450);
+	        pointLevel.add(500);
+	        pointLevel.add(550);
+	        
 	        //скриваме показването на курсора
-	        Console.CursorVisible = false;
+	        //Console.CursorVisible = false;
 
 	        //скорост
 	        double speed = 100;
@@ -86,36 +106,38 @@ public class FallingRocks {
 	        int playFieldWidth = 41;
 
 	        //определяме размерите на конзолата и махаме скролбаровете
-	        Console.BufferHeight = Console.WindowHeight = 20;
-	        Console.BufferWidth = Console.WindowWidth = 70;
+	        //Console.BufferHeight = Console.WindowHeight = 20;
+	        //Console.BufferWidth = Console.WindowWidth = 70;
+	        int ConsoleWindowHeight = 20;
+	        int ConsoleWindowWidth = 70;
 
 	        //дифинираме нашия кораб
 	        Shattle userShuttle = new Shattle();
 	        userShuttle.x = playFieldWidth / 2 + 1;
-	        userShuttle.y = Console.WindowHeight - 1;
+	        userShuttle.y = ConsoleWindowHeight - 1;
 	        userShuttle.c = 'O';
-	        userShuttle.color = ConsoleColor.Red;
+	        //userShuttle.color = ConsoleColor.Red;
 
 	        //масив от възможните скали
 	        char[] rocks = { '^', '@', '*', '&', '+', '%', '$', '#', '!', '.', ';', '-' };
 	        //масив от възможните цветове на скалите
-	        ConsoleColor[] colorsRocks = {ConsoleColor.Blue,ConsoleColor.Cyan,ConsoleColor.Green,
-	                                     ConsoleColor.Magenta,ConsoleColor.White};
+	        //ConsoleColor[] colorsRocks = {ConsoleColor.Blue,ConsoleColor.Cyan,ConsoleColor.Green,
+	        //                             ConsoleColor.Magenta,ConsoleColor.White};
 
 
 	        //масив съдържащ скалите по екрана и го запълваме с празни символи
-	        ScreenObject[,] screenRocks = new ScreenObject[Console.WindowHeight, playFieldWidth];
-	        for (int i = 0; i < Console.WindowHeight; i++)
+	        ScreenObject[][] screenRocks = new ScreenObject[ConsoleWindowHeight][playFieldWidth];
+	        for (int i = 0; i < ConsoleWindowHeight; i++)
 	        {
 	            for (int j = 0; j < playFieldWidth; j++)
 	            {
-	                screenRocks[i, j].c = ' ';
-	                screenRocks[i, j].color = ConsoleColor.Black;
+	                screenRocks[i][j].c = ' ';
+	                //screenRocks[i][j].color = ConsoleColor.Black;
 	            }
 	        }
 
 	        //разчертаваме игралното поле
-	        for (int i = Console.WindowHeight - 1; i >= 0; i--)
+	        for (int i = ConsoleWindowHeight - 1; i >= 0; i--)
 	        {
 	            printCharOnPosition(playFieldWidth, i, '|', ConsoleColor.White);
 	        }
@@ -135,7 +157,7 @@ public class FallingRocks {
 	                speed = 550;
 	            }
 	            //увеличаваме нивото след всеки 50 спечелени точки и скоростта с 50
-	            if (pointLevel.IndexOf(points) != -1)
+	            if (pointLevel.indexOf(points) != -1)
 	            {
 	                level++;
 	                if (level >= 10)
@@ -154,18 +176,18 @@ public class FallingRocks {
 
 	            //съэдаваме на всеки ход по един ред от масива със скали със съответната плътност
 	            //преместваме всеки ред с един напред
-	            for (int i = Console.WindowHeight - 2; i >= 0; i--)
+	            for (int i = ConsoleWindowHeight - 2; i >= 0; i--)
 	            {
 	                for (int j = 0; j < playFieldWidth; j++)
 	                {
-	                    screenRocks[i + 1, j] = screenRocks[i, j];
+	                    screenRocks[i + 1][j] = screenRocks[i][j];
 	                }
 	            }
 	            //изпразваме ред 0 от масива със скалите
 	            for (int i = 0; i < playFieldWidth; i++)
 	            {
-	                screenRocks[0, i].c = ' ';
-	                screenRocks[0, i].color = ConsoleColor.Black;
+	                screenRocks[0][i].c = ' ';
+	                //screenRocks[0][i].color = ConsoleColor.Black;
 	            }
 
 	            //на първия ред пишем новогенерираните скали
@@ -182,23 +204,23 @@ public class FallingRocks {
 	                    indexColor = randomGenerator.Next(0, colorsRocks.Length);
 	                    indexArea = randomGenerator.Next(0, playFieldWidth);
 	                }
-	                while (screenRocks[0, indexArea].c != ' ');
-	                screenRocks[0, indexArea].c = rocks[indexRock];
-	                screenRocks[0, indexArea].color = colorsRocks[indexColor];
+	                while (screenRocks[0][indexArea].c != ' ');
+	                screenRocks[0][indexArea].c = rocks[indexRock];
+	                //screenRocks[0][indexArea].color = colorsRocks[indexColor];
 	            }
 
 	            //проверка за сблъсък
-	            bool hasHit = false;
+	            boolean hasHit = false;
 	            for (int i = 0; i < playFieldWidth; i++)
 	            {
 	                if ((userShuttle.x == i) &&
-	                    (screenRocks[Console.WindowHeight - 1, i].c != ' '))
+	                    (screenRocks[ConsoleWindowHeight - 1][i].c != ' '))
 	                {
 	                    hasHit = true;
 	                    if (livesCount - 1 <= 0)
 	                    {
-	                        printStringOnPosition(50, 10, "Game over !", ConsoleColor.Green);
-	                        Console.ReadKey(true);
+	                        printStringOnPosition(50, 10, "Game over !");  //, ConsoleColor.Green);
+	                        //Console.ReadKey(true);
 	                        return;
 	                    }
 	                    else
@@ -259,7 +281,6 @@ public class FallingRocks {
 	            //Slow down program
 	            Thread.Sleep((int)(600 - speed));
 	        }
-	    }
 	}
 
 }
