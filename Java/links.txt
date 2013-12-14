@@ -1,0 +1,3 @@
+https://netbeans.org/kb/docs/javaee/ecommerce/netbeans-ecommerce-tutorial.html
+https://netbeans.org/kb/docs/web/mysql-webapp.html
+https://netbeans.org/kb/docs/web/hibernate-webapp.html
