@@ -1,16 +1,12 @@
-/* 
-    Document   : affablebean
-    Created on : Dec 14, 2013, 2:54:37 PM
-    Author     : admin
-    Description:
-        Purpose of the stylesheet follows.
+/*
+Document   : affablebean
+Created on : Jun 9, 2010, 3:59:32 PM
+Author     : tgiunipero
+Description: Style rules for the AffableBean application
 */
 
-/* 
-   TODO customize this sample style
-   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
-*/
 
+/* html tags */
 body {
     font-family: Arial, Helvetica, sans-serif;
     width: 850px;
@@ -35,7 +31,7 @@ table {
 
 
 /* general styles */
-#main { background: #f7f7e9 }
+#main { background: #eee }
 
 #singleColumn {
     margin: 20px 30px;

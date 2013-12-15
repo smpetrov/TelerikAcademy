@@ -1,7 +1,7 @@
-<%-- 
-    Document   : index
-    Created on : Dec 13, 2013, 1:00:27 PM
-    Author     : admin
+<%--
+    Document   : checkout
+    Created on : Jun 9, 2010, 3:59:32 PM
+    Author     : tgiunipero
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -38,32 +38,39 @@
                 <img src="#" id="logoText" alt="the affable bean">
             </div>
 
-            <div id="indexLeftColumn">
-                <div id="welcomeText">
-                    <p>[ welcome text ]</p>
-                </div>
-            </div>
+            <div id="centerColumn">
 
-            <div id="indexRightColumn">
-                <div class="categoryBox">
-                    <a href="#">
-                        <span class="categoryLabelText">dairy</span>
-                    </a>
-                </div>
-                <div class="categoryBox">
-                    <a href="#">
-                        <span class="categoryLabelText">meats</span>
-                    </a>
-                </div>
-                <div class="categoryBox">
-                    <a href="#">
-                        <span class="categoryLabelText">bakery</span>
-                    </a>
-                </div>
-                <div class="categoryBox">
-                    <a href="#">
-                        <span class="categoryLabelText">fruit & veg</span>
-                    </a>
+                <h2>checkout</h2>
+
+                <p>[ text ]</p>
+
+                <form action="purchase" method="post">
+
+                    <table id="checkoutTable">
+                        <tr>
+                            <td>[ form containing fields to
+                                <br>capture customer details ]</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td><input type="submit" value="submit button"></td>
+                        </tr>
+
+                    </table>
+
+                </form>
+
+                <div id="infoBox">
+
+                    <div style="border: black solid 1px; height:100px; padding: 10px">
+                        [ purchase conditions ]
+                    </div>
+
+                    <div id="priceBox">
+                        [ purchase calculations:<br>subtotal + delivery charge ]
+                    </div>
                 </div>
             </div>
 

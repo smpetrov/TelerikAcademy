@@ -5,7 +5,9 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -21,6 +23,8 @@
                         [ language toggle ]
                     </div>
 
+                    <div class="headerWidget"></div>
+
                     <div class="headerWidget">
                         [ shopping cart widget ]
                     </div>
@@ -35,15 +39,37 @@
             </div>
 
             <div id="indexLeftColumn">
-                left column
+                <div id="welcomeText">
+                    <p>[ welcome text ]</p>
+                </div>
             </div>
 
             <div id="indexRightColumn">
-                right column
+                <div class="categoryBox">
+                    <a href="#">
+                        <span class="categoryLabelText">dairy</span>
+                    </a>
+                </div>
+                <div class="categoryBox">
+                    <a href="#">
+                        <span class="categoryLabelText">meats</span>
+                    </a>
+                </div>
+                <div class="categoryBox">
+                    <a href="#">
+                        <span class="categoryLabelText">bakery</span>
+                    </a>
+                </div>
+                <div class="categoryBox">
+                    <a href="#">
+                        <span class="categoryLabelText">fruit & veg</span>
+                    </a>
+                </div>
             </div>
 
             <div id="footer">
-                footer
+                <hr>
+                <p id="footerText">[ footer text ]</p>
             </div>
         </div>
     </body>
