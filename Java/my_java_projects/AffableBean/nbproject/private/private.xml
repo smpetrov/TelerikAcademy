@@ -3,6 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/I:/TelerikAcademy/Java/my_java_projects/AffableBean/web/WEB-INF/web.xml</file>
+            <file>file:/I:/TelerikAcademy/Java/my_java_projects/AffableBean/src/conf/MANIFEST.MF</file>
+            <file>file:/I:/TelerikAcademy/Java/my_java_projects/AffableBean/web/test/testDataSource.jsp</file>
+            <file>file:/I:/TelerikAcademy/Java/my_java_projects/AffableBean/web/index.jsp</file>
+            <file>file:/I:/TelerikAcademy/Java/my_java_projects/AffableBean/web/META-INF/context.xml</file>
+            <file>file:/I:/TelerikAcademy/Java/my_java_projects/AffableBean/setup/glassfish-resources.xml</file>
+        </group>
     </open-files>
 </project-private>
