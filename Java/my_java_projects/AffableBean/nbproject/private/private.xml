@@ -4,11 +4,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/I:/TelerikAcademy/Java/my_java_projects/AffableBean/web/WEB-INF/web.xml</file>
-            <file>file:/I:/TelerikAcademy/Java/my_java_projects/AffableBean/web/test/testDataSource.jsp</file>
-            <file>file:/I:/TelerikAcademy/Java/my_java_projects/AffableBean/src/java/controller/ControllerServlet.java</file>
-            <file>file:/I:/TelerikAcademy/Java/my_java_projects/AffableBean/web/WEB-INF/view/category.jsp</file>
-            <file>file:/I:/TelerikAcademy/Java/my_java_projects/AffableBean/web/META-INF/context.xml</file>
+            <file>file:/C:/Examples/TelerikAcademy/Java/my_java_projects/AffableBean/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Examples/TelerikAcademy/Java/my_java_projects/AffableBean/web/WEB-INF/view/category.jsp</file>
+            <file>file:/C:/Examples/TelerikAcademy/Java/my_java_projects/AffableBean/web/index.jsp</file>
+            <file>file:/C:/Examples/TelerikAcademy/Java/my_java_projects/AffableBean/src/java/controller/ControllerServlet.java</file>
         </group>
     </open-files>
 </project-private>
