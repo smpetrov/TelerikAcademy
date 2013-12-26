@@ -1,6 +1,6 @@
 
-<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-<%@taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql"%>
+<%-- <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql"%> --%>
 
 <%-- zaradi EJB <sql:query var="categories" dataSource="jdbc/affablebean">
     SELECT * FROM category

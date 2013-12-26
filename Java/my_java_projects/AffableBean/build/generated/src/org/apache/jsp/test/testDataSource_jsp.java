@@ -57,40 +57,40 @@ public final class testDataSource_jsp extends org.apache.jasper.runtime.HttpJspB
       _jspx_out = out;
       _jspx_resourceInjector = (org.glassfish.jsp.api.ResourceInjector) application.getAttribute("com.sun.appserv.jsp.resource.injector");
 
-      out.write('\n');
-      out.write('\n');
-      out.write("\n");
-      out.write("\n");
-      out.write("\n");
-      out.write("<!DOCTYPE html>\n");
-      out.write("<html>\n");
-      out.write("    <head>\n");
-      out.write("        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n");
-      out.write("        <title>JSP Page</title>\n");
-      out.write("    </head>\n");
-      out.write("    <body>\n");
-      out.write("        <h1>Hello World!</h1>\n");
+      out.write("\r\n");
+      out.write("\r\n");
+      out.write("\r\n");
+      out.write("\r\n");
+      out.write("\r\n");
+      out.write("<!DOCTYPE html>\r\n");
+      out.write("<html>\r\n");
+      out.write("    <head>\r\n");
+      out.write("        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\r\n");
+      out.write("        <title>JSP Page</title>\r\n");
+      out.write("    </head>\r\n");
+      out.write("    <body>\r\n");
+      out.write("        <h1>Hello World!</h1>\r\n");
       out.write("    ");
       if (_jspx_meth_sql_query_0(_jspx_page_context))
         return;
-      out.write("\n");
-      out.write("        \n");
-      out.write("    <table border=\"1\">\n");
-      out.write("        <!-- column headers -->\n");
-      out.write("        <tr>\n");
+      out.write("\r\n");
+      out.write("        \r\n");
+      out.write("    <table border=\"1\">\r\n");
+      out.write("        <!-- column headers -->\r\n");
+      out.write("        <tr>\r\n");
       out.write("        ");
       if (_jspx_meth_c_forEach_0(_jspx_page_context))
         return;
-      out.write("\n");
-      out.write("    </tr>\n");
-      out.write("    <!-- column data -->\n");
+      out.write("\r\n");
+      out.write("    </tr>\r\n");
+      out.write("    <!-- column data -->\r\n");
       out.write("    ");
       if (_jspx_meth_c_forEach_1(_jspx_page_context))
         return;
-      out.write("\n");
-      out.write("</table> \n");
-      out.write("    </body>\n");
-      out.write("</html>\n");
+      out.write("\r\n");
+      out.write("</table> \r\n");
+      out.write("    </body>\r\n");
+      out.write("</html>\r\n");
     } catch (Throwable t) {
       if (!(t instanceof SkipPageException)){
         out = _jspx_out;
@@ -125,8 +125,8 @@ public final class testDataSource_jsp extends org.apache.jasper.runtime.HttpJspB
           _jspx_th_sql_query_0.doInitBody();
         }
         do {
-          out.write("\n");
-          out.write("        SELECT * FROM category, product WHERE category.id = product.category_id\n");
+          out.write("\r\n");
+          out.write("        SELECT * FROM category, product WHERE category.id = product.category_id\r\n");
           out.write("    ");
           int evalDoAfterBody = _jspx_th_sql_query_0.doAfterBody();
           if (evalDoAfterBody != javax.servlet.jsp.tagext.BodyTag.EVAL_BODY_AGAIN)
@@ -165,11 +165,11 @@ public final class testDataSource_jsp extends org.apache.jasper.runtime.HttpJspB
       int _jspx_eval_c_forEach_0 = _jspx_th_c_forEach_0.doStartTag();
       if (_jspx_eval_c_forEach_0 != javax.servlet.jsp.tagext.Tag.SKIP_BODY) {
         do {
-          out.write("\n");
+          out.write("\r\n");
           out.write("            <th>");
           if (_jspx_meth_c_out_0((javax.servlet.jsp.tagext.JspTag) _jspx_th_c_forEach_0, _jspx_page_context, _jspx_push_body_count_c_forEach_0))
             return true;
-          out.write("</th>\n");
+          out.write("</th>\r\n");
           out.write("        ");
           int evalDoAfterBody = _jspx_th_c_forEach_0.doAfterBody();
           if (evalDoAfterBody != javax.servlet.jsp.tagext.BodyTag.EVAL_BODY_AGAIN)
@@ -223,13 +223,13 @@ public final class testDataSource_jsp extends org.apache.jasper.runtime.HttpJspB
       int _jspx_eval_c_forEach_1 = _jspx_th_c_forEach_1.doStartTag();
       if (_jspx_eval_c_forEach_1 != javax.servlet.jsp.tagext.Tag.SKIP_BODY) {
         do {
-          out.write("\n");
-          out.write("        <tr>\n");
+          out.write("\r\n");
+          out.write("        <tr>\r\n");
           out.write("        ");
           if (_jspx_meth_c_forEach_2((javax.servlet.jsp.tagext.JspTag) _jspx_th_c_forEach_1, _jspx_page_context, _jspx_push_body_count_c_forEach_1))
             return true;
-          out.write("\n");
-          out.write("        </tr>\n");
+          out.write("\r\n");
+          out.write("        </tr>\r\n");
           out.write("    ");
           int evalDoAfterBody = _jspx_th_c_forEach_1.doAfterBody();
           if (evalDoAfterBody != javax.servlet.jsp.tagext.BodyTag.EVAL_BODY_AGAIN)
@@ -265,11 +265,11 @@ public final class testDataSource_jsp extends org.apache.jasper.runtime.HttpJspB
       int _jspx_eval_c_forEach_2 = _jspx_th_c_forEach_2.doStartTag();
       if (_jspx_eval_c_forEach_2 != javax.servlet.jsp.tagext.Tag.SKIP_BODY) {
         do {
-          out.write("\n");
+          out.write("\r\n");
           out.write("            <td>");
           if (_jspx_meth_c_out_1((javax.servlet.jsp.tagext.JspTag) _jspx_th_c_forEach_2, _jspx_page_context, _jspx_push_body_count_c_forEach_2))
             return true;
-          out.write("</td>\n");
+          out.write("</td>\r\n");
           out.write("        ");
           int evalDoAfterBody = _jspx_th_c_forEach_2.doAfterBody();
           if (evalDoAfterBody != javax.servlet.jsp.tagext.BodyTag.EVAL_BODY_AGAIN)

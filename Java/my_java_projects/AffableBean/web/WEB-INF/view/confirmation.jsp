@@ -23,5 +23,6 @@
                             <th style="padding:10px">[ customer details ]</th>
                         </tr>
                     </table>
+
                 </div>
             </div>
