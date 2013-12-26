@@ -65,7 +65,8 @@
                                 &euro; ${product.price} / unit
                             </td>
                             <td>
-                                <form action="addToCart" method="post">
+                                <!-- test <form action="addToCart" method="post">-->
+                                <form action="<c:url value='addToCart'/>" method="post">    
                                     <input type="hidden"
                                            name="productId"
                                            value="${product.id}">

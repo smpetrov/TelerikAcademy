@@ -18,6 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import session.CategoryFacade;
+import session.OrderManager;
 import session.ProductFacade;
 
 /**
@@ -41,6 +42,8 @@ public class ControllerServlet extends HttpServlet {
     private CategoryFacade categoryFacade;
     @EJB
     private ProductFacade productFacade;
+    @EJB
+    private OrderManager orderManager;
 
     @Override
     public void init(ServletConfig servletConfig) throws ServletException {
@@ -111,7 +114,7 @@ public class ControllerServlet extends HttpServlet {
 
             // calculate total
             //my change za da tragne cart.calculateTotal(surcharge);
-
+            
             // forward to checkout page and switch to a secure channel
 
         // if user switches language
@@ -183,7 +186,18 @@ public class ControllerServlet extends HttpServlet {
 
         // if purchase action is called
         } else if (userPath.equals("/purchase")) {
-            // TODO: Implement purchase action
+           if (cart != null) {
+
+                // extract user data from request
+                String name = request.getParameter("name");
+                String email = request.getParameter("email");
+                String phone = request.getParameter("phone");
+                String address = request.getParameter("address");
+                String cityRegion = request.getParameter("cityRegion");
+                String ccNumber = request.getParameter("creditcard");
+                
+                int orderId = orderManager.placeOrder(name, email, phone, address, cityRegion, ccNumber, cart);
+            }
 
             userPath = "/confirmation";
         }

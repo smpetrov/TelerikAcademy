@@ -68,7 +68,8 @@ public class CustomerOrder implements Serializable {
     @JoinColumn(name = "customer_id", referencedColumnName = "id")
     @ManyToOne(optional = false)
     private Customer customerId;
-
+    //private int customerId;
+    
     public CustomerOrder() {
     }
 
@@ -125,10 +126,12 @@ public class CustomerOrder implements Serializable {
     }
 
     public Customer getCustomerId() {
+    //public int getCustomerId() {    
         return customerId;
     }
 
     public void setCustomerId(Customer customerId) {
+    //public void setCustomerId(int customerId) {
         this.customerId = customerId;
     }
 
